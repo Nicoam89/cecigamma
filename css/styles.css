@@ -1,0 +1,45 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* Font Principal */
+.fuente-principal {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+h4 {
+  color: rgb(255, 143, 18);
+}
+
+/* Formato Header */
+header {
+  text-align: center;
+  background-color: white;
+}
+
+.banner {
+  height: 3rem;
+}
+
+/* Formato Navegador */
+/* Formato Links */
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+/* Formato Sections*/
+section {
+  padding: 3%;
+}/*# sourceMappingURL=styles.css.map */
