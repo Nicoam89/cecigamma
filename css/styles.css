@@ -48,6 +48,7 @@ a:visited {
 /* Formato Porfolio */
 .elemento-porfolio {
   width: 20rem;
+  height: 35rem;
   text-align: center;
 }
 
