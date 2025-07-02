@@ -12,6 +12,7 @@ li {
   list-style: none;
 }
 
+/* Formato Body */
 body {
   margin: 1%;
   background-image: url(/Imagenes/19304.jpg);
@@ -80,6 +81,10 @@ a {
 
 a:visited {
   text-decoration: none;
+}
+
+a:hover {
+  transform: scale(1.15);
 }
 
 /* Formato Porfolio */
